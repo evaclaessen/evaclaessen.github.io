@@ -14,7 +14,7 @@
     <ul class="site-nav-list clearfix">
       {% assign page_url = page.url | replace: 'index.html', '' %}
       {% for link in site.nav %}
-        <li {% if link.url == page_url | prepend: site.url %}class="site-nav-current"{% endif %}>
+        <li {% if link.url == page_url %}class="site-nav-current"{% endif %}>
           <a href="{{ link.url | prepend: site.url }}">{{ link.title }}</a>
         </li>
       {% endfor %}
