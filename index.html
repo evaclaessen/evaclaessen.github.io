@@ -8,8 +8,8 @@ layout: default
 {% endif %}
 
 <div class="post-list">
-
   {% for post in paginator.posts %}
+    {% if post.pinned %}
       <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
         <header class="post-header">
           <h2 class="post-title" itemprop="headline"><a href="{{ post.url | prepend: site.url }}">{{ post.title | xml_escape }}</a></h2>
@@ -18,6 +18,19 @@ layout: default
           <a class="read-more" href="{{ post.url | prepend: site.url }}">{{ post.subtext }}</a>
         </div>
       </article>
+    {% endif %}
+  {% endfor %}
+  {% for post in paginator.posts %}
+    {% if post.pinned == nil %}
+      <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+        <header class="post-header">
+          <h2 class="post-title" itemprop="headline"><a href="{{ post.url | prepend: site.url }}">{{ post.title | xml_escape }}</a></h2>
+        </header>
+        <div class="post-excerpt" itemprop="description">
+          <a class="read-more" href="{{ post.url | prepend: site.url }}">{{ post.subtext }}</a>
+        </div>
+      </article>
+    {% endif %}
   {% endfor %}
 </div>
 
