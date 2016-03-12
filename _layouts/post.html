@@ -5,13 +5,6 @@ layout: default
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
   <header class="post-header">
     <h1 class="post-title" itemprop="headline">{{ page.title | xml_escape }}</h1>
-    <ul class="x-separated-list x-separated-list-meta">
-      <li class="post-date">
-        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-          {{ page.date | date: "%B %-d, %Y" }}
-        </time>
-      </li>
-    </ul>
   </header>
 
   <div class="post-content" itemprop="articleBody">
@@ -20,7 +13,7 @@ layout: default
 
   <div class="share">
     <span class="share-title">Deel dit op:</span>
-    {% assign url = page.url | prepend: site.baseurl | prepend: site.url %}
+    {% assign url = page.url | prepend: site.url %}
     <ul class="x-separated-list">
       <li>
         <a href="https://twitter.com/intent/tweet?text={{ page.title | uri_escape }}&amp;url={{ url }}"
@@ -43,15 +36,18 @@ layout: default
 
 <nav class="read-next">
   {% if page.next %}
-    <a class="read-next-newer" href="{{ page.next.url | prepend: site.baseurl }}">
+    <a class="read-next-newer" href="{{ page.next.url | prepend: site.url }}">
       <span class="read-next-label">Vorig artikel</span>
       <span class="read-next-title">{{ page.next.title | xml_escape }}</span>
     </a>
   {% endif %}
   {% if page.previous %}
-    <a class="read-next-older" href="{{ page.previous.url | prepend: site.baseurl }}">
+    <a class="read-next-older" href="{{ page.previous.url | prepend: site.url }}">
       <span class="read-next-label">Volgend artikel</span>
       <span class="read-next-title">{{ page.previous.title | xml_escape }}</span>
     </a>
   {% endif %}
 </nav>
+<div class="creative-commons">
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons-Licentie" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Dit werk valt onder een <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Naamsvermelding-NietCommercieel-GelijkDelen 4.0 Internationaal-licentie</a>.
+    </div>

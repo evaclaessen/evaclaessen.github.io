@@ -8,19 +8,16 @@ tagline: De wereld door Russische ogen.
 description:
 
 # The base hostname & protocol of your site for where absolute urls are needed
-url: "https://evaclaessen.github.io"
-
-# The subpath of your site, e.g. /blog, for generating urls
-baseurl: ""
+url: "http://localhost:4000"
 
 # The site cover image on the home page
 image: /images/site-image.jpg
 
 # The shortname for your Disqus site to enable comments
-disqus_shortname:
+disqus_shortname: evaclaessen
 
 # Your Google Analytics tracking code
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-75058506-1
 
 
 # Site navigation
@@ -28,9 +25,9 @@ nav:
   - title: "Home"
     url:   "/"
   - title: "Over mij"
-    url:   "over.html"
+    url:   "/over"
   - title: "Contact"
-    url: "contact.html"
+    url: "/contact"
 
 
 # The links in the site footer
@@ -38,7 +35,7 @@ footer_links:
   - title: "RSS"
     url:   "/feed.xml"
   - title: "Privacy policy"
-    url:   "privacy_policy.html"
+    url:   "/privacy_policy"
 
 # Extra Open Graph and Twitter Cards settings for social sharing
 
@@ -62,3 +59,6 @@ kramdown:
 
 exclude:
     - node_modules
+
+sass:
+  style: compressed

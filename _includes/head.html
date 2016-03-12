@@ -46,7 +46,7 @@
     <meta property="og:image" content="{{ image }}" />
   {% endif %}
 
-  {% assign url = page.url | replace: 'index.html', '' | prepend: site.baseurl | prepend: site.url %}
+  {% assign url = page.url | replace: 'index.html', '' | prepend: site.url %}
   <meta property="og:url" content="{{ url }}" />
 
   {% if page.date %}
@@ -67,11 +67,11 @@
   <meta name="twitter:card" content="summary{% if image %}_large_image{% endif %}" />
 
   <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400,400italic,700&amp;subset=latin,latin-ext" />
-  <link rel="stylesheet" href="{{ "/style.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/style.css" | prepend: site.url }}">
 
   <link rel="canonical" href="{{ url }}">
 
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.url }}">
 
   {% if site.google_analytics_tracking_id %}
     <script>

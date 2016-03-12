@@ -12,7 +12,7 @@ layout: default
     {% if post.topmost %}
       <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
         <header class="post-header">
-          <h2 class="post-title" itemprop="headline"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | xml_escape }}</a></h2>
+          <h2 class="post-title" itemprop="headline"><a href="{{ post.url | prepend: site.url }}">{{ post.title | xml_escape }}</a></h2>
         </header>
         <div class="post-excerpt" itemprop="description">
           {{ post.excerpt | strip_html }}<a class="read-more" href="{{url}}">…</a>
@@ -21,10 +21,10 @@ layout: default
     {% endif %}
   {% endfor %}
   {% for post in paginator.posts %}
-    {% if post.topmost == nil %}
+    {% if post.topmost.size %}
       <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
         <header class="post-header">
-          <h2 class="post-title" itemprop="headline"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | xml_escape }}</a></h2>
+          <h2 class="post-title" itemprop="headline"><a href="{{ post.url | prepend: site.url }}">{{ post.title | xml_escape }}</a></h2>
         </header>
         <div class="post-excerpt" itemprop="description">
           {{ post.excerpt | strip_html }}<a class="read-more" href="{{url}}">…</a>
@@ -37,7 +37,7 @@ layout: default
 {% if paginator.previous_page or paginator.next_page %}
   <nav class="pagination clearfix">
     {% if paginator.previous_page %}
-      <a class="pagination-newer" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: 'index.html', '' }}">
+      <a class="pagination-newer" href="{{ paginator.previous_page_path | prepend: site.url | replace: 'index.html', '' }}">
         <div>
           <svg viewBox="0 0 9 14">
             <path d="M7.293 14l1.414-1.414L3.12 7l5.587-5.586L7.293 0l-7 7 7 7z"/>
@@ -47,7 +47,7 @@ layout: default
       </a>
     {% endif %}
     {% if paginator.next_page %}
-      <a class="pagination-older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">
+      <a class="pagination-older" href="{{ paginator.next_page_path | prepend: site.url }}">
         <div>
           <svg viewBox="0 0 9 14">
             <path d="M1.707 14L.293 12.586 5.88 7 .292 1.414 1.707 0l7 7-7 7z"/>
