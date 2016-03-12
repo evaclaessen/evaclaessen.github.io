@@ -23,6 +23,15 @@ layout: default
 <li><strong>3c</strong> Cookies kunnen altijd van een computer worden verwijderd, ook weer via de browser.</li>
 </ul>
 
+<h2>Wat is een cookie?</h2>
+<p>Wij maken op deze website gebruik van cookies. Een cookie is een eenvoudig klein bestandje dat met pagina’s van deze website wordt meegestuurd en door uw browser op uw harde schrijf van uw computer wordt opgeslagen. De daarin opgeslagen informatie kan bij een volgend bezoek weer naar onze servers teruggestuurd worden.<p>
+<h2>Op welke wijze maakt evaclaessen.be gebruik van cookies?</h2>
+<h3>Google Analytics</h3>
+<p>Via onze website wordt een cookie geplaatst van het Amerikaanse bedrijf Google, als deel van de “Analytics”-dienst. Wij gebruiken deze dienst om bij te houden en rapportages te krijgen over hoe bezoekers de website gebruiken. Google kan deze informatie aan derden verschaffen indien Google hiertoe wettelijk wordt verplicht, of voor zover derden de informatie namens Google verwerken. Wij hebben hier geen invloed op. Wij hebben Google toegestaan de verkregen analytics informatie te gebruiken voor andere Google diensten.
+De informatie die Google verzamelt wordt zo veel mogelijk geanonimiseerd. Uw IP-adres wordt nadrukkelijk niet meegegeven. De informatie wordt overgebracht naar en door Google opgeslagen op servers in de Verenigde Staten. Google stelt zich te houden aan de Safe Harbor principles en is aangesloten bij het Safe Harbor-programma van het Amerikaanse Ministerie van Handel. Dit houdt in dat er sprake is van een passend beschermingsniveau voor de verwerking van eventuele persoonsgegevens.</p>
+<h3>CloudFlare</h3>
+<p>Via onze website wordt er een cookie geplaatst van het Amerikaanse bedrijf CloudFlare, als deel van de beveiliging. Deze cookie verzamelt geen persoon-identificeerbare gegevens. <a href="https://support.cloudflare.com/hc/en-us/articles/200170156-What-does-the-CloudFlare-cfduid-cookie-do-" title="meer informatie over cloudflare cookie">Meer informatie.</a></p>
+
 <h2>4. Vragen</h2>
 <p>Bezoekers kunnen met hun vragen over deze Privacy Policy terecht bij evaclaessen.be. De contactgegevens staan vermeld op de website die genoemd wordt in lid 1 van deze Privacy Policy.</p>
 
