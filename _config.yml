@@ -8,7 +8,7 @@ tagline: De wereld door Russische ogen.
 description: "De wereld door Russische ogen, een blog van Eva Claessen"
 
 # The base hostname & protocol of your site for where absolute urls are needed
-url: "http://localhost:4000"
+url: "https://evaclaessen.be"
 
 # The site cover image on the home page
 image: /images/site-image.jpg
@@ -62,5 +62,3 @@ exclude:
 
 sass:
   style: compressed
-
-future:true
