@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introductie 2"
+title:  "Introductie new"
 subtext: "Introductie tot blog"
 pinned: true
 ---
