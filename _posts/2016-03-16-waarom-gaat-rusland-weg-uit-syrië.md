@@ -5,7 +5,7 @@ subtext: "Drie redenen"
 pinned: false
 ---
 
-Maandag trokken Russische troepen uit Syrië terug. Deze actie kwam voor de meeste experten compleet onverwacht, zeker nadat Lavrov duidelijk had gezegd dat het akkoord over een wapenstilstand genegeerd zou worden door Russische troepen in Syrië. Waarom trekt Rusland uit Syrië terug.
+Maandag trokken Russische troepen uit Syrië terug. Deze actie kwam voor de meeste experten compleet onverwacht, zeker nadat Lavrov duidelijk had gezegd dat het akkoord over een wapenstilstand genegeerd zou worden door Russische troepen in Syrië. In deze post lijst ik de verschillende redenen op waarom Rusland heeft besloten om een deel van zijn troepen terug te trekken uit Syrië.
 
 ### De officiële reden
 
