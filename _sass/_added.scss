@@ -6,9 +6,12 @@ a.pure-button-selected {
     color: #000;
 }
 
+
+.link_underline,
 .email {
 	border-bottom: 2px solid #ddd;
 }
+.link_underline:hover,
 .email:hover {
 	border-bottom: 2px solid #000;
 }

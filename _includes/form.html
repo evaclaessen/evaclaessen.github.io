@@ -19,5 +19,6 @@
             <button type="submit" class="pure-button pure-button-primary">Verstuur bericht</button>
         </div>
         <input type="text" name="_gotcha" style="display:none" />
+        <input type="hidden" name="_next" value="{{ "/bericht_verstuurd/" | prepend: site.url }}" />
     </fieldset>
 </form>
