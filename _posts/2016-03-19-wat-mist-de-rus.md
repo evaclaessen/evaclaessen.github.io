@@ -31,14 +31,14 @@ Hoewel er nog altijd een meerderheid van de bevolking is die niet vindt dat Rusl
 Om een volk te bewegen is er toch wel een minimum aan comfort nodig. Dit betekent concreet dat de Russen willen kunnen genieten van een lekker stukje Nederlandse kaas en een bakje friet van Poolse aardappelen zonder te diep in hun zak te kijken.
 
 ### Bronnen
-[Rusland probeert van de sancties af te raken]http://izvestia.ru/news/606460
+[Rusland probeert van de sancties af te raken](http://izvestia.ru/news/606460)
 
-[De helft van de Russen klaagt over een vermindering van inkomen]http://izvestia.ru/news/604444
+[De helft van de Russen klaagt over een vermindering van inkomen](http://izvestia.ru/news/604444)
 
-[Het Levada centrum: 75% van de Russen wil een verbetering van de relaties tussen Rusland en het Westen]http://www.novayagazeta.ru/news/1698384.html
+[Het Levada centrum: 75% van de Russen wil een verbetering van de relaties tussen Rusland en het Westen](http://www.novayagazeta.ru/news/1698384.html)
 
-[Levada: de economische crisis]http://www.levada.ru/2016/02/24/ekonomicheskij-krizis/
+[Levada: de economische crisis](http://www.levada.ru/2016/02/24/ekonomicheskij-krizis/)
 
-[Levada: de mening van de Russen over de sancties]http://mresearcher.com/2015/07/levada-centr-mnenie-rossiyan-o-sankciyax-iyul-2015.html	 mening van de Russen over sancties
+[Levada: de mening van de Russen over de sancties](http://mresearcher.com/2015/07/levada-centr-mnenie-rossiyan-o-sankciyax-iyul-2015.html)
 
-[Levada: de Russen zien in de sancties een poging van het Westen om Rusland te verzwakken]http://ria.ru/politics/20141001/1026408108.html --> Russen zien in de sancties een poging van het Westen om Rusland te verzwakken
+[Levada: de Russen zien in de sancties een poging van het Westen om Rusland te verzwakken](http://ria.ru/politics/20141001/1026408108.html)
