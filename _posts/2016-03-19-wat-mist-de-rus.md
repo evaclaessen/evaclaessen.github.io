@@ -41,4 +41,4 @@ Om een volk te bewegen is er toch wel een minimum aan comfort nodig. Dit beteken
 
 [Левада центр: мнение россиян о санкциях (Levada: de mening van de Russen over de sancties)](http://mresearcher.com/2015/07/levada-centr-mnenie-rossiyan-o-sankciyax-iyul-2015.html)
 
-[Левада центр: Россияне видят в санкциях Запада попытку ослабить РФ (Levada: de Russen zien in de sancties een poging van het Westen om Rusland te verzwakken)](http://ria.ru/politics/20141001/1026408108.html)
+[Левада центр: россияне видят в санкциях Запада попытку ослабить РФ (Levada: de Russen zien in de sancties een poging van het Westen om Rusland te verzwakken)](http://ria.ru/politics/20141001/1026408108.html)
