@@ -16,7 +16,7 @@ Maar is dat ook wel zo?
 
 Uit onderzoek van het Levada centrum blijkt dat Russen de economische sancties niet zozeer associëren met de huidige economische crisis. De sancties worden door de meerderheid van de Russen (71%) geassocieerd met pogingen van Westerse landen om Rusland te verzwakken na de versterking van haar positie op het internationale toneel met de annexatie van de Krim. Dit ligt helemaal in de lijn met het feit dat de Russische regering amper de schuld krijgt voor de invoering van de sancties en het Westen gezien wordt als de grote boeman. Verder was er ook een groot gevoel van optimisme dat de sancties Rusland niet zo hard zouden raken als door het Westen werd bedoeld.
 
-Dit gevoel van optimisme bleef volgens het Levada centrum duren tot 4 maanden na de annexatie van de Krim. Dit gevoel bleef niet duren. Vandaag de dag zegt klaagt al de helft van de Russen over de vermindering van hun inkomen en 97% van de Russen spreekt van een serieuze groei van de prijzen voor levensmiddelen. Het aantal mensen die devaluatie van de roebel als een tijdelijk fenomeen zagen is in de laatste maanden zeer sterk vermindert.
+Dit gevoel van optimisme bleef volgens het Levada centrum duren tot 4 maanden na de annexatie van de Krim. Dit gevoel bleef niet duren. Vandaag de dag zegt klaagt al de helft van de Russen over de vermindering van hun inkomen en 97% van de Russen spreekt van een serieuze groei van de prijzen voor levensmiddelen. Het aantal mensen die devaluatie van de roebel als een tijdelijk fenomeen zagen is in de laatste maanden zeer sterk verminderd.
 
 Het is dus niet verwonderlijk dat eind 2015 in een bevraging van het Levada centrum 75% van de Russen een verbetering van de relaties tussen de Russische Federatie en het Westen wilden en bijgevolg ook een vermindering van de sancties. Deze mening heeft wel degelijk een belangrijk effect op het Kremlin.
 
@@ -31,14 +31,14 @@ Hoewel er nog altijd een meerderheid van de bevolking is die niet vindt dat Rusl
 Om een volk te bewegen is er toch wel een minimum aan comfort nodig. Dit betekent concreet dat de Russen willen kunnen genieten van een lekker stukje Nederlandse kaas en een bakje friet van Poolse aardappelen zonder te diep in hun zak te kijken.
 
 ### Bronnen
-[Rusland probeert van de sancties af te raken](http://izvestia.ru/news/606460)
+[Россия пытается сбросить с себя санкции (Rusland probeert van de sancties af te raken)](http://izvestia.ru/news/606460)
 
-[De helft van de Russen klaagt over een vermindering van inkomen](http://izvestia.ru/news/604444)
+[Половина россиян пожаловалось на снижение доходов (De helft van de Russen klaagt over een vermindering van inkomen)](http://izvestia.ru/news/604444)
 
-[Het Levada centrum: 75% van de Russen wil een verbetering van de relaties tussen Rusland en het Westen](http://www.novayagazeta.ru/news/1698384.html)
+[Левада центр: 75% россиян хотят налаживания отношений РФ с Западом (Het Levada centrum: 75% van de Russen wil een verbetering van de relaties tussen Rusland en het Westen)](http://www.novayagazeta.ru/news/1698384.html)
 
-[Levada: de economische crisis](http://www.levada.ru/2016/02/24/ekonomicheskij-krizis/)
+[Экономический кризис (Levada: de economische crisis)](http://www.levada.ru/2016/02/24/ekonomicheskij-krizis/)
 
-[Levada: de mening van de Russen over de sancties](http://mresearcher.com/2015/07/levada-centr-mnenie-rossiyan-o-sankciyax-iyul-2015.html)
+[Левада центр: мнение россиян о санкциях (Levada: de mening van de Russen over de sancties)](http://mresearcher.com/2015/07/levada-centr-mnenie-rossiyan-o-sankciyax-iyul-2015.html)
 
-[Levada: de Russen zien in de sancties een poging van het Westen om Rusland te verzwakken](http://ria.ru/politics/20141001/1026408108.html)
+[Левада центр: Россияне видят в санкциях Запада попытку ослабить РФ (Levada: de Russen zien in de sancties een poging van het Westen om Rusland te verzwakken)](http://ria.ru/politics/20141001/1026408108.html)
