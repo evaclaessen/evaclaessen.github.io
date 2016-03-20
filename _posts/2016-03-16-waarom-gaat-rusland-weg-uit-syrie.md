@@ -27,13 +27,13 @@ Het terugtrekken van Rusland uit Syrië had dus vier grote redenen. Ten eerste w
 
 ### Bronnen
 
-[Putin announces the withdrawal from Syria - Vedomosti ](https://www.vedomosti.ru/politics/articles/2016/03/15/633563-vladimir-putin-obyavil-nachale-vivoda-voisk-sirii)
+[Владимир Путин объявил о выводе войск из Сирии (Putin kondigt de terugtrekking uit Syrië aan) - Vedomosti ](https://www.vedomosti.ru/politics/articles/2016/03/15/633563-vladimir-putin-obyavil-nachale-vivoda-voisk-sirii)
 
-[Russia withdraws, to stay - Gazeta](http://www.gazeta.ru/politics/2016/03/14_a_8123897.shtml)
+[Россия уходит, чтобы остаться (Rusland trekt weg om te blijven) - Gazeta](http://www.gazeta.ru/politics/2016/03/14_a_8123897.shtml)
 
-[Russia tries to get rid of sanctions - Izvestija](http://izvestia.ru/news/606460)
+[Россия пытается сбросить с себя санкции (Rusland probeert om van de sancties af te raken) - Izvestija](http://izvestia.ru/news/606460)
 
-[Why is Russia leaving Syria? - Ridus](https://www.ridus.ru/news/215230)
+[Почему Россия уходит из Сирии (Waarom trekt Rusland weg uit Syrië) - Ridus](https://www.ridus.ru/news/215230)
 
 [Russia's exit from Syria, a move military analysts never saw coming - The Guardian](http://www.theguardian.com/world/2016/mar/14/russia-exit-syria-vladimir-putin-military-tactical-move)
 
