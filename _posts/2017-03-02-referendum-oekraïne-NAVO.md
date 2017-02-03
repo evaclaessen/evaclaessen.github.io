@@ -9,9 +9,7 @@ Op 2 februari deed Petro Poroshenko in een interview met de Berliner Morgenpost 
 over de toetreding van zijn land tot de NAVO. De uitspraak kwam naar aanleiding van de vraag of Oekraïne kans zou maken op 
 lidmaatschap bij de NAVO. Poroshenko antwoordde hierop dat een aanvraag tot toetreding eerst zou afgetast worden bij de Oekraïense
 bevolking via een referendum. Over een positieve uitslag van een dergelijk referendum was hij overtuigd. Het percentage van Oekraïeners
-dat toetreding  tot de NAVO steunt is namelijk gegroeid van 16% vier jaar geleden naar 54%. Het is echter twijfelachtig of hij bij 
-het opvoeren van deze cijfers de gebieden onder invloed van separatisten in Donbas of de Krim, die officieel nog altijd deel 
-uitmaken van Oekraïne, erbij heeft gerekend.
+dat toetreding  tot de NAVO steunt is namelijk gegroeid van 16% vier jaar geleden naar 54%.
 
 ### Meningen verschillen
 
