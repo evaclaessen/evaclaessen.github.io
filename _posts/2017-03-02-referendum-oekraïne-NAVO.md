@@ -75,7 +75,7 @@ om de nodige hervormingen door te voeren om ooit toe te treden tot de NAVO en de
 ### Bronnen
 #### Interview Poroshenko
 
-[Berliner Morgenpost](http://www.morgenpost.de/politik/ausland/article209473203/Ukraine-Praesident-Poroschenko-Die-Nato-ist-unverzichtbar.html)
+[Berliner Morgenpost interview](http://www.morgenpost.de/politik/ausland/article209473203/Ukraine-Praesident-Poroschenko-Die-Nato-ist-unverzichtbar.html)
 
 #### Russische interpretatie
 
