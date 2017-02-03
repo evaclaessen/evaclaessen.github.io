@@ -5,7 +5,7 @@ subtext: "Het belang van de grootmachtstatus"
 pinned: false
 ---
 
-Een belangrijk aspect om het Ruslands plaats in de wereld te bepalen is om allereerst te kijken naar hoe zij hun plaats in de wereld zien. Dit kan opgesomd worden in één woord: grootmacht. Een grootmacht voor de Russen betekent een politieke actor die invloed uitoefent op het internationale toneel en op gelijke voet staat met andere politieke grootmachten zoals, onder andere, de Verenigde Staten of de Europese Unie.
+Een belangrijk aspect om Ruslands plaats in de wereld te bepalen is om allereerst te kijken naar hoe zij hun plaats in de wereld zien. Dit kan opgesomd worden in één woord: grootmacht. Een grootmacht voor de Russen betekent een politieke actor die invloed uitoefent op het internationale toneel en op gelijke voet staat met andere politieke grootmachten zoals, onder andere, de Verenigde Staten of de Europese Unie.
 
 ### De grootmacht status als vervanger van een ideologie
 
