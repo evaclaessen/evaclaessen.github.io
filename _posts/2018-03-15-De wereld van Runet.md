@@ -31,19 +31,19 @@ Een combinatie van een harde en zachte aanpak naar internet toe geeft Rusland oo
 ### Bronnen
 
 #### Over de geschiedenis van Runet
-Natalya Konradova & Henrike Schmidt. (2014). From the utopia of autonomy to a political battlefield – towards a history of the Russian Internet. In Gorham, M., Lunde, I. & Paulsen, M. (eds): *Digital Russia, the language, culture and politics of new media communication*. 
-Julien Nocetti (2011): [Digital Kremlin: power and the internet in Russia.] (https://www.ifri.org/sites/default/files/atoms/files/ifrinocettirussianwebengmars2011.pdf) 
-Julie Fedor & Rolf Fredheim (2017). “We need more clips about Putin, and lots of them: Russia’s state-commissioned online visual culture.” *Nationalities Papers*, 46 (2): 161-181.
+* Natalya Konradova & Henrike Schmidt. (2014). From the utopia of autonomy to a political battlefield – towards a history of the Russian * Internet. In Gorham, M., Lunde, I. & Paulsen, M. (eds): *Digital Russia, the language, culture and politics of new media communication*. 
+* Julien Nocetti (2011): [Digital Kremlin: power and the internet in Russia.] (https://www.ifri.org/sites/default/files/atoms/files/ifrinocettirussianwebengmars2011.pdf) 
+* Julie Fedor & Rolf Fredheim (2017). “We need more clips about Putin, and lots of them: Russia’s state-commissioned online visual culture.” *Nationalities Papers*, 46 (2): 161-181.
 
 #### De regering en Runet
-Roskomnadzor: [De blokkering van internet websites”](https://rkn.gov.ru/treatments/p459/p750/)
-Vladimir Poetin: [Poetin: de veiligheid van Runet moet vergroot worden, maar zonder barrières voor burgers.](https://www.vesti.ru/doc.html?id=2947627)
-The Guardian: [Putin calls internet a ‘CIA project’ renewing fears of web breakup.”](https://www.theguardian.com/world/2014/apr/24/vladimir-putin-web-breakup-internet-cia)
+* Roskomnadzor: [De blokkering van internet websites”](https://rkn.gov.ru/treatments/p459/p750/)
+* Vladimir Poetin: [Poetin: de veiligheid van Runet moet vergroot worden, maar zonder barrières voor burgers.](https://www.vesti.ru/doc.html?id=2947627)
+* The Guardian: [Putin calls internet a ‘CIA project’ renewing fears of web breakup.”](https://www.theguardian.com/world/2014/apr/24/vladimir-putin-web-breakup-internet-cia)
 
 #### Runet en de verkiezingen
-Over de selfiewedstrijd: [Operatie om te dwingen tot opkomst [bij de stembussen]](https://www.leonidvolkov.ru/p/271/)
-Over de Election Girl stickers: [De krant Maxim wordt beschuldigd van plagiaat van stickers die aansporen om te gaan stemmen.](https://meduza.io/news/2018/02/25/zhurnal-maxim-obvinili-v-plagiate-stikerov-s-prizyvom-priyti-na-vybory)
-[Actrice legt filmpje uit: Het speelt zich af in het onderbewustzijn.](http://www.mk.ru/politics/2018/02/18/aktrisa-obyasnila-rolik-s-geem-pro-vybory-eto-v-podsoznanii.html in het onderbewustzijn.)
-[Over de blokkering van de website van Navalny](https://meduza.io/news/2018/02/15/glava-shtaba-navalnogo-soobschil-chto-blokirovku-sayta-navalny-com-slomali-bez-osobogo-truda#click=https://t.co/z6O7aWlxRE)
- [Youtube en Navalny](https://www.theguardian.com/world/2018/feb/13/russian-watchdog-orders-youtube-to-remove-navalny-video)
+* Over de selfiewedstrijd: [Operatie om te dwingen tot opkomst [bij de stembussen]](https://www.leonidvolkov.ru/p/271/)
+* Over de Election Girl stickers: [De krant Maxim wordt beschuldigd van plagiaat van stickers die aansporen om te gaan stemmen.](https://meduza.io/news/2018/02/25/zhurnal-maxim-obvinili-v-plagiate-stikerov-s-prizyvom-priyti-na-vybory)
+* [Actrice legt filmpje uit: Het speelt zich af in het onderbewustzijn.](http://www.mk.ru/politics/2018/02/18/aktrisa-obyasnila-rolik-s-geem-pro-vybory-eto-v-podsoznanii.html in het onderbewustzijn.)
+* [Over de blokkering van de website van Navalny](https://meduza.io/news/2018/02/15/glava-shtaba-navalnogo-soobschil-chto-blokirovku-sayta-navalny-com-slomali-bez-osobogo-truda#click=https://t.co/z6O7aWlxRE)
+* [Youtube en Navalny](https://www.theguardian.com/world/2018/feb/13/russian-watchdog-orders-youtube-to-remove-navalny-video)
   
