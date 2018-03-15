@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "Rusland in de moderne wereld"
-subtext: "Het belang van de grootmachtstatus"
+title:  "De wereld van Runet"
+subtext: "Tussen vrijheid en open confrontatie"
 pinned: false
 ---
-
-# De wereld van Runet : tussen vrijheid en open confrontatie
 
 Het beeld dat de verspreiding van het wereldwijde web werd gezien als dé grootste brenger van democratische waarden is de laatste jaren sterk verminderd. De impact van sociale media op de succesvolle mobilisatie van protesterende voor protesten zoals de Kleurenrevolutie (2003/2004) in Oost-Europa en de Arabische Lente in onder andere Libië en Egypte mag zeker niet onderschat worden, maar het is niet enkel de oppositie die geleerd heeft uit haar ervaringen met het Internet. Ook de regimes zelf kennen ondertussen de kracht van het Internet en Rusland is hier geen uitzondering op.
 Te midden van de groeiende spanning rond de presidentsverkiezingen in Rusland is het des te duidelijker hoe groot de rol van het RuNet (het Russischtalig segment van het Internet) is geworden. Je hoeft maar Aleksei Naval’ny (oppositielid en geweigerd presidentskandidaat) en Poetin gezinde kranten te volgen op Twitter om te zien hoe belangrijk het Internet geworden is in de vorming van politiek engagement in Rusland niet alleen voor de oppositie, maar ook voor de regering zelf. 
