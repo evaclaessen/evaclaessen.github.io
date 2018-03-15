@@ -53,7 +53,7 @@ Een combinatie van een harde en zachte aanpak naar internet toe geeft Rusland oo
 * The Guardian: [Putin calls internet a ‘CIA project’ renewing fears of web breakup.](https://www.theguardian.com/world/2014/apr/24/vladimir-putin-web-breakup-internet-cia)
 
 #### Runet en de verkiezingen
-* Over de selfiewedstrijd: [Operatie om te dwingen tot opkomst [bij de stembussen]](https://www.leonidvolkov.ru/p/271/)
+* [Over de selfiewedstrijd](https://www.leonidvolkov.ru/p/271/)
 * Over de Election Girl stickers: [De krant Maxim wordt beschuldigd van plagiaat van stickers die aansporen om te gaan stemmen.](https://meduza.io/news/2018/02/25/zhurnal-maxim-obvinili-v-plagiate-stikerov-s-prizyvom-priyti-na-vybory)
 * [Actrice legt filmpje uit: Het speelt zich af in het onderbewustzijn.](http://www.mk.ru/politics/2018/02/18/aktrisa-obyasnila-rolik-s-geem-pro-vybory-eto-v-podsoznanii.html)
 * [Over de blokkering van de website van Navalny](https://meduza.io/news/2018/02/15/glava-shtaba-navalnogo-soobschil-chto-blokirovku-sayta-navalny-com-slomali-bez-osobogo-truda#click=https://t.co/z6O7aWlxRE)
