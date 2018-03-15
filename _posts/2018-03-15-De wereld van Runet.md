@@ -24,26 +24,26 @@ In plaats van vergaande restricties, gaat het weeral eerder over de instelling n
 
 ### Selfiewedstrijden en Election Girl vs. Navalny
 Het kat en muisspel tussen de regering en de oppositie wordt momenteel openlijk uitgespeeld op sociale media. De verkiezingen vormen hierbij een dankbaar thema om de vergelijking te maken. De grootste zorg van het Kremlin momenteel is om zoveel mogelijk mensen naar de stembussen te krijgen. Hierbij wordt gretig gebruik gemaakt van sociale media. Zo circuleren er oproepen  om deel te nemen aan selfiewedstrijden, waarbij aangespoord wordt om voor 19 maart een selfie op te sturen met een bewijs dat men zal deelnemen/deelgenomen heeft aan de verkiezingen.
-Een ander voorbeeld hiervan is de “election girl” sticker , die de jeugd moet aansporen om “op te groeien” en te gaan stemmen. Verder werd er ook een filmpje  verspreid waarbij het verhaal wordt verteld van een man die wakker wordt in een dystopische, westerse wereld, omdat hij niet wou gaan stemmen. Ook is de blog van Navalny  meerder keren geblokkeerd geweest en werd zelfs youtube  onder druk gezet om het youtube kanaal te verwijderen.
+Een ander voorbeeld hiervan is de “election girl” sticker , die de jeugd moet aansporen om “op te groeien” en te gaan stemmen. Verder werd er ook een [filmpje](https://www.youtube.com/watch?v=nvUDvd65-Lw) verspreid waarbij het verhaal wordt verteld van een man die wakker wordt in een dystopische, westerse wereld, omdat hij niet wou gaan stemmen. Ook is de blog van Navalny  meerder keren geblokkeerd geweest en werd zelfs youtube  onder druk gezet om een filmpje te verwijderen over de oligarch Deripaska.
 De manier waarop het internet in Rusland gebruikt wordt als politiek instrument is dus even divers in pro-regime als in oppositionele kringen. Dit kan gaan van officiële initiatieven zoals het implementeren van wetten en de blokkering van websites omwille van morele redenen, alsook het gebruik van sociale media door officiële instanties en personen. Verder is er ook een heel divers landschap van externe actoren die niet per se gebonden zijn aan de staat, maar die wel de boodschap verder verspreiden. In het geval van de verkiezingen gaat het dan over het aansporen van de bevolking om te gaan stemmen.
 Een combinatie van een harde en zachte aanpak naar internet toe geeft Rusland ook de mogelijkheid om het beeld te behouden van vrije digitale ruimte, waarin de mogelijkheid bestaat om bij te dragen aan het maatschappelijk debat. Het Runet kan een plaats worden waarin de Russische maatschappij weerspiegelt wordt en de kans om deze plaats vorm te geven wordt daarom ook door alle betrokken partijen genomen.
 
 ### Bronnen
 
 #### Over de geschiedenis van Runet
-Natalya Konradova & Henrike Schmidt. (2014). From the utopia of autonomy to a political battlefield – towards a history of the Russian Internet. In Gorham, M., Lunde, I. & Paulsen, M. (eds): Digital Russia, the language, culture and politics of new media communication. 
-Julien Nocetti (2011): “Digital Kremlin: power and the internet in Russia.” https://www.ifri.org/sites/default/files/atoms/files/ifrinocettirussianwebengmars2011.pdf 
-Julie Fedor & Rolf Fredheim (2017). “We need more clips about Putin, and lots of them: Russia’s state-commissioned online visual culture.” Nationalities Papers, 46 (2): 161-181.
+Natalya Konradova & Henrike Schmidt. (2014). From the utopia of autonomy to a political battlefield – towards a history of the Russian Internet. In Gorham, M., Lunde, I. & Paulsen, M. (eds): *Digital Russia, the language, culture and politics of new media communication*. 
+Julien Nocetti (2011): [Digital Kremlin: power and the internet in Russia.] (https://www.ifri.org/sites/default/files/atoms/files/ifrinocettirussianwebengmars2011.pdf) 
+Julie Fedor & Rolf Fredheim (2017). “We need more clips about Putin, and lots of them: Russia’s state-commissioned online visual culture.” *Nationalities Papers*, 46 (2): 161-181.
 
 #### De regering en Runet
-Roskomnadzor: “De blokkering van internet websites” https://rkn.gov.ru/treatments/p459/p750/
-Vladimir Poetin: “Poetin: de veiligheid van Runet moet vergroot worden, maar zonder barrières voor burgers.” https://www.vesti.ru/doc.html?id=2947627
-The Guardian: “Putin calls internet a ‘CIA project’ renewing fears of web breakup.”
+Roskomnadzor: [De blokkering van internet websites”](https://rkn.gov.ru/treatments/p459/p750/)
+Vladimir Poetin: [Poetin: de veiligheid van Runet moet vergroot worden, maar zonder barrières voor burgers.](https://www.vesti.ru/doc.html?id=2947627)
+The Guardian: [Putin calls internet a ‘CIA project’ renewing fears of web breakup.”](https://www.theguardian.com/world/2014/apr/24/vladimir-putin-web-breakup-internet-cia)
 
 #### Runet en de verkiezingen
-Over de selfiewedstrijd: “Operatie om te dwingen tot opkomst [bij de stembussen]” : https://www.leonidvolkov.ru/p/271/
-Over de Election Girl stickers: „De krant Maxim wordt beschuldigd van plagiaat van stickers die aansporen om te gaan stemmen.” https://meduza.io/news/2018/02/25/zhurnal-maxim-obvinili-v-plagiate-stikerov-s-prizyvom-priyti-na-vybory
-Het dystopisch filmpje: https://www.youtube.com/watch?v=nvUDvd65-Lw of http://www.mk.ru/politics/2018/02/18/aktrisa-obyasnila-rolik-s-geem-pro-vybory-eto-v-podsoznanii.html “Actrice legt filmpje uit: Het is in het onderbewustzijn.”
-Over de blokkering van de website van Navalny: “Op het hoofdkwartier van Naval’ny meldden ze dat ze “zonder al te veel moeite” de blokkering van de site navalny.com konden afbreken.”: https://meduza.io/news/2018/02/15/glava-shtaba-navalnogo-soobschil-chto-blokirovku-sayta-navalny-com-slomali-bez-osobogo-truda#click=https://t.co/z6O7aWlxRE 
- “Inbraak in het systeem: waarom de site van Naval’ny bereikbaar is voor Russen, ondanks de blokkering.’: http://www.cnews.ru/news/top/2018-02-20_bresh_v_sisteme_pochemu_sajt_navalnogo_dostupen
+Over de selfiewedstrijd: [Operatie om te dwingen tot opkomst [bij de stembussen]](https://www.leonidvolkov.ru/p/271/)
+Over de Election Girl stickers: [De krant Maxim wordt beschuldigd van plagiaat van stickers die aansporen om te gaan stemmen.](https://meduza.io/news/2018/02/25/zhurnal-maxim-obvinili-v-plagiate-stikerov-s-prizyvom-priyti-na-vybory)
+[Actrice legt filmpje uit: Het speelt zich af in het onderbewustzijn.](http://www.mk.ru/politics/2018/02/18/aktrisa-obyasnila-rolik-s-geem-pro-vybory-eto-v-podsoznanii.html in het onderbewustzijn.)
+[Over de blokkering van de website van Navalny](https://meduza.io/news/2018/02/15/glava-shtaba-navalnogo-soobschil-chto-blokirovku-sayta-navalny-com-slomali-bez-osobogo-truda#click=https://t.co/z6O7aWlxRE)
+ [Youtube en Navalny](https://www.theguardian.com/world/2018/feb/13/russian-watchdog-orders-youtube-to-remove-navalny-video)
   
