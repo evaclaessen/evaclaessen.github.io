@@ -15,13 +15,12 @@ dat toetreding  tot de NAVO steunt is namelijk gegroeid van 16% vier jaar gelede
 
 Het is natuurlijk niet verassend dat de Russische media en Oekraïense media over deze kwestie een andere mening zijn aangedaan.
 Toen in 2008 voor het eerst sprake was over een mogelijke toetreding van Oekraïne samen met Georgië tot de NAVO waren de reacties
-allesbehalve positief en juist door deze reactie van Rusland werd het NAVO lidmaatschap ook niet toegekent aan deze landen. Een
-referendum over toetreding tot de NAVO zal dus ook nu geen positieve reacties uitlokken.
+allesbehalve positief en mede door deze reactie van Rusland werd het NAVO lidmaatschap ook niet toegekent aan deze landen.
 
 Wat wel opmerkelijk is, is het bijkomend feit dat beide zijden, Oekraïne en Rusland, zich er van bewust zijn dat toetreding tot
 de NAVO onmogelijk is door onder andere het nog woedende conflict in Donbas. Dit verandert de aard van de discussie over het referendum
 aanzienlijk. In plaats van te focussen op de gevolgen van een mogelijke toetreding, wordt de nadruk eerder gelegd op de redenen
-achter de organisatie van het referendum. Waarom zou Poroshenko in godsnaam een referendum organiseren als hij op voorhand weet dat het
+achter de organisatie van het referendum. Waarom zou Poroshenko een referendum organiseren als hij op voorhand weet dat het
 niet zal leiden tot een toetreding?
 
 ### De Russische interpretatie
@@ -36,7 +35,7 @@ om zo steun te krijgen voor zijn beleid van het Oekraïense volk.
 Het interessante aan dit artikel, is dat de auteur ietwat andere redenen heeft waarom het referendum niet zal leiden tot een toetreding
 van Oekraïne tot de NAVO. Terwijl de Oekraïense pers vooral focust op het voortdurende conflict in Oost-Oekraïne, trekt de auteur van
 dit artikel ook nog eens de legitimiteit van het referendum in vraag. Doordat het referendum namelijk zogezegd over heel Oekraïne zal 
-gebeuren, moet het ook plaatsvinden in de door de seperatistent opgestelde volksrepublieken DNR en LNR, die door Oekraïne nog beschouwd
+gebeuren, moet het ook plaatsvinden in de door de seperatisten opgestelde volksrepublieken DNR en LNR, die door Oekraïne nog beschouwd
 worden als eigen grondgebied. Ook de Krim zou, volgens de auteur, deel moeten nemen aan het referendum. Deze gebieden staan niet positief
 ten opzichte van NAVO lidmaatschap.
 
@@ -47,22 +46,20 @@ gebieden, anders kan het referendum niet als legitiem beschouwd worden.
 
 ### De Oekraïense interpretatie
 
-De Oekraïense pers is een andere mening aangedaan. In tegenstelling tot de Russische pers die het referendum interpreteert als een 
-poging tot machtsconsolidatie van Poroshenko, zien zij het referendum eerder als een manier om invloed uit te oefenen op het Westen. 
+De Oekraïense pers is een andere mening aangedaan. In tegenstelling tot de Russische pers zien zij het referendum eerder als een manier om invloed uit te oefenen op het Westen. 
 Het referendum zou gezien kunnen worden als een bevestiging van de keuze van Oekraïne voor Europa en het zou nogmaals druk zetten op het 
 Westen om verenigd de sancties tegen Rusland te behouden.
 
 Ook Oekraïense sociologe Irina Bekeshkina ziet een dergelijk referendum niet als een rechtstreekse vraag om opgenomen te
-worden bij de NAVO, maar eerder als een manifestatie van positieve gevoelens van de Oekraïense bevolking ten opzichte van de NAVO. 
-Een positieve uitslag van het referendum zou tonen dat de houding van de bevolking ten opzichte van NAVO lidmaatschap is veranderd
+worden bij de NAVO, maar eerder als een manifestatie van positieve gevoelens van de Oekraïense bevolking ten opzichte van de organisatie. 
+Een positieve uitslag van het referendum zou tonen dat de houding van de bevolking ten opzichte van het lidmaatschap is veranderd
 en dat men afziet van de neutrale status die Oekraïne tot voor kort behield. Het referendum zou nogmaals duidelijk maken dat het
-voor het Westen kiest.Bovendien zou een positieve reactie van de bevolking op NAVO lidmaatschap de weg vrij maken voor hervormingen die de eisen van de NAVO
-tegemoetkomen. Dit zou lidmaatschap op lange termijn mogelijk maken.
+voor het Westen kiest.Bovendien zou een positieve reactie van de bevolking op NAVO lidmaatschap de weg vrij maken voor hervormingen die de eisen van de NAVO tegemoetkomen. Dit zou lidmaatschap op lange termijn mogelijk maken.
 
 ### De aard van de verschillen
 
 Het is duidelijk dat de Russische en Oekraïense interpretatie van dit referendum sterk verschillen. Zo focust de Russische pers eerder
-op hoe het referendum Oekraïne verder kan verzwakken. Om dit te doen worden de al bestaande zwaktes van Oekraïne verder benadrukt, 
+op hoe het referendum Oekraïne verder kan verzwakken. Om dit te doen worden de bestaande zwaktes van Oekraïne verder benadrukt, 
 namelijk: geschillen binnen de regering en de zwakker wordende positie van Poroshenko, alsook het voortdurende conflict in Donbas en
 het verlies van de Krim.
 
