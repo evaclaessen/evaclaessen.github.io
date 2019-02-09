@@ -21,7 +21,7 @@ De bedreiging hiervan voor Rusland is niet alleen te vinden in het militaire den
 
 Omwille van het feit dat dit “kleurenrevolutie sjabloon” bestaat uit een zeer verscheiden verzameling van “niet-militaire technologieën”, hangt de classificatie van een gebeurtenis als een “kleurenrevolutie” enkel vast aan de perceptie of dat de protestbeweging van buitenaf is georkestreerd of niet. Op deze manier is het een zeer wendbaar concept dat toegepast kan worden op verschillende soorten protestbewegingen, zolang er maar een bepaalde link gelegd kan worden naar eventuele buitenlands (Amerikaanse) inmenging. Dit is goed zichtbaar in de kaart hieronder van Gerasimov (2014), die toont hoe het gebruik van de strategie van “kleurenrevoluties” op een globale basis kan leidt tot “militaire ondersteuning van anti-regeringstroepen en open militaire inmenging”, de “groei van ongecontroleerde troepen: huurlingen, terrorisme, extremisme en transnationale misdaad”:
 
-[Afbeelding]
+<img src="https://evaclaessen.be/images/Gerasimov.png" alt="Gerasimov" />
 
 ### Gele hesjes in Parijs
 
