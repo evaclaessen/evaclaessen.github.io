@@ -77,16 +77,16 @@ om de nodige hervormingen door te voeren om ooit toe te treden tot de NAVO en de
 
 #### Russische interpretatie
 
-[Izvestija: Poroshenko gaat daarheen, waar men niet op hem staat te wachten (Russisch)](http://izvestia.ru/news/662009)
+<a href="http://izvestia.ru/news/662009">Izvestija: Poroshenko gaat daarheen, waar men niet op hem staat te wachten (Russisch)</a>
 
-[Russia Today: De keuze van het volk of bluf: waarom heeft Poroshenko een referendum over toetreding tot de NAVO nodig? (Russisch)] (https://russian.rt.com/ussr/article/355600-poroshenko-ukraina-referendum-nato)
+<a href="https://russian.rt.com/ussr/article/355600-poroshenko-ukraina-referendum-nato">Russia Today: De keuze van het volk of bluf: waarom heeft Poroshenko een referendum over toetreding tot de NAVO nodig? (Russisch)</a>
 
-[Ria Novosti: De NAVO is niet op de hoogte: waarom heeft Poroshenko een referendum nodig over lidmaatschap bij de alliantie (Russisch)] (https://ria.ru/world/20170202/1487072285.html)
+<a href="https://ria.ru/world/20170202/1487072285.html">Ria Novosti: De NAVO is niet op de hoogte: waarom heeft Poroshenko een referendum nodig over lidmaatschap bij de alliantie (Russisch)</a>
 
 #### Oekraïense interpretatie
 
-[Ukrainskaja Pravda: Bekeshkina: naar het referendum zullen voorstanders van de NAVO komen en 70% zal 'voor' stemmen (Russisch)](http://www.pravda.com.ua/rus/news/2017/02/2/7134225/)
+<a href="http://www.pravda.com.ua/rus/news/2017/02/2/7134225/">Ukrainskaja Pravda: Bekeshkina: naar het referendum zullen voorstanders van de NAVO komen en 70% zal 'voor' stemmen (Russisch)</a>
+  
+<a href="http://dt.ua/POLITICS/poroshenko-zayaviv-pro-gotovnist-provesti-referendum-pro-chlenstvo-ukrayini-v-nato-zmi-231993_.html">ZN,UA: Poroshenko kondigde een referendum aan over het NAVO lidmaatschap van Oekraïne (Oekraïens)</a>
 
-[ZN,UA: Poroshenko kondigde een referendum aan over het NAVO lidmaatschap van Oekraïne (Oekraïens)] (http://dt.ua/POLITICS/poroshenko-zayaviv-pro-gotovnist-provesti-referendum-pro-chlenstvo-ukrayini-v-nato-zmi-231993_.html)
-
-[Den Kyiv: Ongeveer juist, maar... (Russisch)] (http://day.kyiv.ua/ru/article/podrobnosti/vrode-pravilno-no)
+<a href="http://day.kyiv.ua/ru/article/podrobnosti/vrode-pravilno-no">Den Kyiv: Ongeveer juist, maar... (Russisch)</a>
