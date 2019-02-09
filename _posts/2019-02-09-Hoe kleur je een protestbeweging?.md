@@ -58,3 +58,16 @@ De verklaring gaat verder met een beschuldiging aan het adres van Amerika:
 Hoewel hier geen rechtstreekse vermelding gemaakt wordt naar een kleurenrevolutie, zijn de karakteristieken wel aanwezig. Verwijzingen naar “buitenlandse inmenging”, en “destabilisatie van de binnenlandse situatie” en “de verandering van ongunstige regimes” zijn voorbeelden van de hierboven besproken karakteristieken van het kleurenrevolutiesjabloon. In de [Russische pers](https://iz.ru/837336/nataliia-portiakova/podem-s-perevorotom-kak-u-venesuely-poiavilsia-eshche-odin-prezident) worden de gebeurtenissen in Venezuela wel gekarakteriseerd als een navolging op het kleurenrevolutiesjabloon.
 
 Het verschil in gebruik van het concept van kleurenrevoluties voor deze twee casussen toont goed hoe wendbaar het is. De casus van de gele hesjes in Frankrijk toont dat het niet nodig is om er in de officiële retoriek rechtstreeks naar te verwijzen om ervoor te zorgen dat de link gemaakt wordt in de Russische pers. In het geval van Venezuela geeft het gebruik van verwijzingen naar het concept extra kracht aan de officiële retoriek. Door het in de context van kleurenrevoluties te zetten, geeft het een bepaalde dreiging weer die ook een zekere weerklank vindt binnen de Russische pers en op sociale media.
+
+### Referenties
+[Gerasimov, V. (2013). Tsennost nauki v predvidenii: novye vyzovy trebuyut pereosmyslit’ formy i sposoby vedeniya boevych dejstvij (De waarde van wetenschap ligt in haar vooruitziendheid: nieuwe uitdagingen dwingen ons na te denken over de vormen en manieren van oorlogvoeren). *Voenno-Promyshlennyj Kur’er.*](https://www.vpk-news.ru/articles/14632)
+
+[Gerasimov, V. (2014). O roli voennoj sily v sovremennych konfliktach (over de rol van militaire kracht in hedendaagse conflicten). In: In: A. I. Antonov (ed.). *III Moskovskaya konferentsiya po mezhdunaradnoj bezopasnosti: materialy konferentsii.* Ministerstvo Oborony Rossijskoj Federatsii.](http://mil.ru/files/morf/MCIS_report_catalogue_final_RUS_21_10_preview.pdf)
+
+*Kontseptsia vneshnej politiki RF (Het buitenlandbeleidsdocument van de Russische Federatie).* MID Rossii. (01/12/2016). 
+
+*O strategii natsional’noj bezopasnosti Rossijskoj Federatsii.* (31/12/2015). Rossijskaya Gazeta. https://rg.ru/2015/12/31/nac-bezopasnost-site-dok.html  
+
+[Poetin, V. V. (2014). Privetstvie prezidenta Rossijskoj Federatsii Vladimira Vladimirovicha Putina uchastnikam I gostyam III Moskovskoj konferentsii po mezhdunarodnoj bezopasnosti (Welcome speech of the president of the Russian Federation: Vladimir Vladimirovich Putin). In: A. I. Antonov (ed.). *III Moskovskaya konferentsiya po mezhdunaradnoj bezopasnosti: materialy konferentsii.* Ministerstvo Oborony Rossijskoj Federatsii.](http://mil.ru/files/morf/MCIS_report_catalogue_final_RUS_21_10_preview.pdf)
+
+
