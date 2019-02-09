@@ -47,7 +47,7 @@ Ook binnen de Russische regering wordt deze gebeurtenis met verve besproken. Ond
 
 *In het voorbeeld van de gebeurtenissen in Venezuela is goed zichtbaar, hoe de progressieve Westerse gemeenschap zich echt verhoudt ten opzichte van internationaal recht, soevereiniteit en de inmenging in de binnenlandse zaken van staten, de macht wordt daar handmatig verandert.*
 
-Ook in de [officiële communiqué van het Ministerie van Buitenlandse Zaken](http://www.mid.ru/search?p_p_id=3&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_3_struts_action=%2Fsearch%2Fsearch#) kan een vergelijkbare lijn gevonden worden:
+Ook in de [officiële communiqué van het Ministerie van Buitenlandse Zaken](http://www.mid.ru/ru/foreign_policy/news/-/asset_publisher/cKNonkJE02Bw/content/id/3482366) kan een vergelijkbare lijn gevonden worden:
 
 *De eedaflegging van de oppositionele “interim president van Venezuela” en de onmiddellijke erkenning ervan door de Verenigde Staten en een aantal regionale staten is gericht op het verergeren van de tweedeling in de Venezolaans gemeenschap, de groei van frontale straatgevechten, de destabilisatie van de binnenlandse situatie en de verdere escalatie van het conflict.*
 
