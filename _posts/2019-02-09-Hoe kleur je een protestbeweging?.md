@@ -66,7 +66,7 @@ Het verschil in gebruik van het concept van kleurenrevoluties voor deze twee cas
 
 *Kontseptsia vneshnej politiki RF (Het buitenlandbeleidsdocument van de Russische Federatie).* MID Rossii. (01/12/2016). 
 
-*O strategii natsional’noj bezopasnosti Rossijskoj Federatsii.* (31/12/2015). Rossijskaya Gazeta. https://rg.ru/2015/12/31/nac-bezopasnost-site-dok.html  
+[*O strategii natsional’noj bezopasnosti Rossijskoj Federatsii.* (31/12/2015). Rossijskaya Gazeta.](https://rg.ru/2015/12/31/nac-bezopasnost-site-dok.html)
 
 [Poetin, V. V. (2014). Privetstvie prezidenta Rossijskoj Federatsii Vladimira Vladimirovicha Putina uchastnikam I gostyam III Moskovskoj konferentsii po mezhdunarodnoj bezopasnosti (Welcome speech of the president of the Russian Federation: Vladimir Vladimirovich Putin). In: A. I. Antonov (ed.). *III Moskovskaya konferentsiya po mezhdunaradnoj bezopasnosti: materialy konferentsii.* Ministerstvo Oborony Rossijskoj Federatsii.](http://mil.ru/files/morf/MCIS_report_catalogue_final_RUS_21_10_preview.pdf)
 
