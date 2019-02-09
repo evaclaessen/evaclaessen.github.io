@@ -5,7 +5,6 @@ subtext: "Van gele hesjes tot Maduro"
 pinned: false
 ---
 
-## Van gele hesjes tot Maduro
 In reactie op protestbewegingen buiten Rusland wordt in de Russische binnenlandse en buitenlandse pers (RT en Sputnik) vaak beroep gedaan op het begrip “kleurenrevolutie”. Dit begrip wordt onder andere gebruikt om de gebeurtenissen met de gele hesjes in Parijs te omschrijven en om de gebeurtenissen in Venezuela te kaderen. Beide gevallen verschillen sterk in karakter. Het ene gaat om een protestbewegingen tegen een erkende democratische regering en het andere gaat om een protestbeweging tegen een machthebber wiens legitimiteit in de internationale gemeenschap al in vraag gesteld werd.
 
 Hoe komt het dat dit concept zo wendbaar is? En op welke manier vindt het een uiting in de zo verschillende casussen van Frankrijk en Venezuela? Dit artikel doet een greep in de Russische berichtgeving en discours rond beide gebeurtenissen. Voor de casus van de gele hesjes wordt de periode van begin december eruit gelicht en voor het geval van Venezuela wordt gekeken naar het officieel discours van de Russische regering de dag na de eedaflegging van Juan Guaidó.
